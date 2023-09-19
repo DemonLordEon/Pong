@@ -1,0 +1,29 @@
+body {
+    background-color: black;
+}
+
+.paddel {
+    background-color: white;
+    width: 20px;
+height: 70px;
+position: absolute;
+}
+
+#paddel_vänster {
+    top: 50%;
+    left: 60px;
+}
+
+#paddel_höger {
+    top: 50%;
+    right: 60px;
+}
+
+#boll {
+    background-color: white;
+    width: 10px;
+    height: 10px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
